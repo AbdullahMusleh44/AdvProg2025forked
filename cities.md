@@ -3,4 +3,6 @@
 ## UK
 
 - [Durham](durham.md)
+- Newcastle
+- Liverpool
 
